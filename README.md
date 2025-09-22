@@ -63,7 +63,7 @@ Set up a Spring Boot + PostgreSQL project where:
 
 ### a) Create Database
 
-```sql
+
 -- Connect to postgres as superuser
 psql -U postgres
 
